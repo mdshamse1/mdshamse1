@@ -1,42 +1,63 @@
-### Hi there 👋
+# Hi there! 👋 I'm [Your Name]
 
-<h2 align="left">Hello! 👋 I'm Md shamse alam, a Web-Developer from</h2>
+## Summary
 
----
+I am passionate about technology and aspire to be part of an organization where I can continuously develop my technical and management skills. My goal is to contribute to the growth and success of the organization.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
-</div>
+## Technical Skills
 
----
+- **Programming Languages:** C, C++, JavaScript
+- **Web Technologies:** HTML5, CSS, Bootstrap
+- **Data Management:** MySQL
+- **Platform:** Windows
 
-<!--<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="Funny Gif" />-->
+## Certifications
 
----
+- Introduction to Front-end Development by Coursera (Sep'22)
+- Programming with JavaScript by Coursera (Oct'22)
+- Version Control by Coursera (Nov'22)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
-  <img width="12" />
-  <!-- Add other programming language icons here -->
-</div>
+## Power Skills
 
----
+- Strong problem-solving and analytical abilities
+- Effective communication and teamwork
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube" />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitch" />
-  <!-- Add other social media badges here -->
-</div>
+## Extracurricular Activities
 
----
+- Competitive event on "Follow the Leader" (Aug'22)
+- Community Development Program on "Adopt a Plant" (Jul'22)
 
-<br clear="both">
+## Projects
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+### Farming Website (Jan'23)
 
----
+- Created using HTML5, CSS, JavaScript, and Bootstrap
+- Provides basic information on farming for beginners
+- Features a product page with seeds for sale
+- Enhanced understanding of advanced JavaScript concepts and Bootstrap library
 
+### Covid 19 Cure Website (Dec'22)
+
+- Developed with HTML5, CSS, JavaScript, and Bootstrap
+- Displays vaccination statistics for India and worldwide
+- Shows locations available for vaccination with booking options
+- Learned CSS flex-box, Bootstrap grid, and JavaScript event handling
+
+### Calculator (Oct'22)
+
+- Built with HTML5, CSS, and JavaScript
+- Basic calculator supporting all mathematical operators
+- Enhanced user interface using CSS and improved functionality with JavaScript
+
+## Achievements
+
+- 1st Rank in the competition on 'Follow the Leader' (Aug'22)
+
+## Education
+
+- **Bachelor of Computer Application** (2019 - Present)
+  Lovely Professional University, Phagwara (Punjab)
+  CGPA: 6.5
+
+- **Higher Secondary** (2019)
+  Delhi Public School, Lagma (Bihar)
