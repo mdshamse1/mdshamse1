@@ -47,15 +47,3 @@ I am passionate about technology and aspire to be part of an organization where 
 - Basic calculator supporting all mathematical operators.
 - ![Calculator Screenshot](CalculatorScreenshot.jpg)
 
-## Achievements
-
-- 1st Rank in the competition on 'Follow the Leader' (Aug'22)
-
-## Education
-
-- **Bachelor of Computer Application** (2019 - Present)
-  - Lovely Professional University, Phagwara (Punjab)
-  - CGPA: 6.5
-
-- **Higher Secondary** (2019)
-  - Delhi Public School, Lagma (Bihar)
