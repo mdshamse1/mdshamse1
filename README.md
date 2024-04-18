@@ -1,49 +1,12 @@
-# Hello! 👋 I'm Md shamse alam
+<p align="center">
+  <img alig src="https://github.com/SuperSupeng/SuperSupeng/blob/master/about.gif" />
+</p>
 
-## Summary
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=SuperSupeng&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
 
-I am passionate about technology and aspire to be part of an organization where I can continuously develop my technical and management skills. My goal is to contribute to the growth and success of the organization.
+### Hi there，I'm Md shamse 🙋‍♂️
 
-## Technical Skills
-
-- **Programming Languages:** C, C++, JavaScript
-- **Web Technologies:** HTML5, CSS, Bootstrap
-- **Data Management:** MySQL
-- **Platform:** Windows
-
-## Certifications
-
-- Introduction to Front-end Development by Coursera (Sep'22)
-- Programming with JavaScript by Coursera (Oct'22)
-- Version Control by Coursera (Nov'22)
-
-## Power Skills
-
-- Strong problem-solving and analytical abilities
-- Effective communication and teamwork
-
-## Extracurricular Activities
-
-- Competitive event on "Follow the Leader" (Aug'22)
-- Community Development Program on "Adopt a Plant" (Jul'22)
-
-## Projects
-
-### Farming Website (Jan'23)
-
-- Created using HTML5, CSS, JavaScript, and Bootstrap.
-- Provides basic information on farming for beginners.
-- ![Farming Website Screenshot](FarmingWebsiteScreenshot.jpg)
-
-### Covid 19 Cure Website (Dec'22)
-
-- Developed with HTML5, CSS, JavaScript, and Bootstrap.
-- Displays vaccination statistics for India and worldwide.
-- ![Covid 19 Cure Website Screenshot](CovidCureWebsiteScreenshot.jpg)
-
-### Calculator (Oct'22)
-
-- Created using HTML5, CSS, and JavaScript.
-- Basic calculator supporting all mathematical operators.
-- ![Calculator Screenshot](CalculatorScreenshot.jpg)
-
+- Open source is something I'm interested in.
+- Fullstack  developer with a background in frontend development.
+- Currently working as a freelance web developer from India.
+- Love to learn new technologies and contribute to open source projects.
